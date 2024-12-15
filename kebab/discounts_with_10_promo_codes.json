@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "menu_id": 1,
+        "discount_percentage": 20.0,
+        "start_date": "2024-12-10T00:00:00",
+        "end_date": "2024-12-18T23:59:59",
+        "promo_code": "Promocja Kebab"
+    },
+    {
+        "id": 2,
+        "menu_id": 2,
+        "discount_percentage": 30.0,
+        "start_date": "2024-12-16T00:00:00",
+        "end_date": "2024-12-20T23:59:59",
+        "promo_code": "Zniżka Pizza"
+    },
+    {
+        "id": 3,
+        "menu_id": 3,
+        "discount_percentage": 15.0,
+        "start_date": "2024-12-20T00:00:00",
+        "end_date": "2024-12-25T23:59:59",
+        "promo_code": "Super Napój"
+    },
+    {
+        "id": 4,
+        "menu_id": 4,
+        "discount_percentage": 50.0,
+        "start_date": "2024-12-22T00:00:00",
+        "end_date": "2024-12-28T23:59:59",
+        "promo_code": "Mega Strony"
+    },
+    {
+        "id": 5,
+        "menu_id": 5,
+        "discount_percentage": 10.0,
+        "start_date": "2024-12-15T00:00:00",
+        "end_date": "2024-12-18T23:59:59",
+        "promo_code": "Extra Papież"
+    },
+    {
+        "id": 6,
+        "menu_id": 6,
+        "discount_percentage": 25.0,
+        "start_date": "2024-12-18T00:00:00",
+        "end_date": "2024-12-24T23:59:59",
+        "promo_code": "Mega Napój"
+    },
+    {
+        "id": 7,
+        "menu_id": 7,
+        "discount_percentage": 40.0,
+        "start_date": "2024-12-24T00:00:00",
+        "end_date": "2024-12-31T23:59:59",
+        "promo_code": "Zniżka Tortilla"
+    },
+    {
+        "id": 8,
+        "menu_id": 8,
+        "discount_percentage": 35.0,
+        "start_date": "2025-01-01T00:00:00",
+        "end_date": "2025-01-05T23:59:59",
+        "promo_code": "Super Cola"
+    },
+    {
+        "id": 9,
+        "menu_id": 9,
+        "discount_percentage": 5.0,
+        "start_date": "2024-12-29T00:00:00",
+        "end_date": "2025-01-02T23:59:59",
+        "promo_code": "Extra Sprite"
+    },
+    {
+        "id": 10,
+        "menu_id": 10,
+        "discount_percentage": 45.0,
+        "start_date": "2025-01-03T00:00:00",
+        "end_date": "2025-01-10T23:59:59",
+        "promo_code": "Promocja Zestaw"
+    }
+]
